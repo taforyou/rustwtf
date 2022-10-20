@@ -1,0 +1,6 @@
+[book]
+authors = ["Chanon Yaklai"]
+language = "en"
+multilingual = false
+src = "src"
+title = "rust-wtf"
